@@ -1,6 +1,6 @@
 # Change Your Password
 
-*HOW IT WORKS
+*HOW IT WORKS*
 
 **(1)** Admin page showing user is registered. ![](/static/images/1.png)
 
@@ -16,4 +16,4 @@
 
 **(7)** Reset completed. ![](/static/images/7.png)
 
-**Note:** *All changes in this repository is followed by MultiuserTodo_app repository.
+**Note:** *All changes in this repository is followed by MultiuserTodo_app repository.*
